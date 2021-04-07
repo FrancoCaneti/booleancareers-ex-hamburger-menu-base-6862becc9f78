@@ -1,5 +1,5 @@
-var hamburger = $('a');
-var menu = $ ('hamburger-menu')
+var hamburger = $('i');
+var menu = $ ('.hamburger-menu')
 
 
 hamburger.click(function(){

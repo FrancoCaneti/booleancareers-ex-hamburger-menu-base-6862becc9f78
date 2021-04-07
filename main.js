@@ -3,5 +3,5 @@ var menu = $ ('.hamburger-menu')
 
 
 hamburger.click(function(){
-  menu.show();
+  menu.toggle();
 });  
